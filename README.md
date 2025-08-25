@@ -10,7 +10,10 @@ Email Me 👉 ✉️ rimshariaz327@gmail.com For Collaboration/Project or Anythi
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** rimsha
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rim-sha47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/-rimshariaz-) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Rim sha47)
 <!-- Snake Game Repo View -->
@@ -26,8 +29,6 @@ Email Me 👉 ✉️ rimshariaz327@gmail.com For Collaboration/Project or Anythi
 ![](https://nirzak-streak-stats.vercel.app/?user=Rim-sha47&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-sha47&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rim-sha47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
